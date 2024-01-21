@@ -15,7 +15,7 @@ Les médiatrices de la Fondation Phi expliquent la multiplicité de son approche
 ### Ce qui me plait dans l'introduction à la muséologie en TIM
 Partager avec les étudiant.e.s des expériences permettant de poser un regard large sur l'expérience vécue par les spectacteurs qui perçoivent l'oeuvre ou le dispositif dans un contexte d'exposition.  
 Apprendre à s'intéresser à toutes les composantes physiques et techniques qui interviennent dans la réception de la création.
-![Exemple de capture d'écran](Capture_SF_Vahmire_defarouche_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
+![Exemple de capture d'écran](Capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
 
 [![TEXTE QUE VOUS DÉSIREZ ICI](chemin vers la capture d'écran que vous avez mise dans un dossier de votre répertoire)](adresse URL de la vidéo) 
 

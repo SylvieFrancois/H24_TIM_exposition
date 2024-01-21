@@ -18,4 +18,4 @@ Apprendre à s'intéresser à toutes les composantes physiques et techniques qui
 
 ![TEXTE QUE VOUS DÉSIREZ ICI](chemin vers la capture d'écran que vous avez mise dans un dossier de votre répertoire]
 
->💡 **Astuce** N'oubliez pas de vérifier la dimension de vos photos!
+>💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>

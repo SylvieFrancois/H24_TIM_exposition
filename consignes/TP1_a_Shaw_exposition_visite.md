@@ -13,7 +13,11 @@ La réalisation de cette banque d'inspirations est une introduction à la produc
 - [] Effectuer la recherche documentaire: Type d'information à rechercher, méthodes de collecte, collecte de l'information, pertinence et qualité des sources.
 
 ## MÉTHODE
-- []Visiter en groupe l'exposition Jeremy Shaw,*Phase Shifting Index* lors du cours de la semaine 2
-- []Observer et expérimenter les oeuvres de l'exposition
-- [] Prendre des notes
-- 
+- [ ] Visiter en groupe l'exposition Jeremy Shaw,*Phase Shifting Index* lors du cours de la semaine 2
+- [ ] Observer et expérimenter les oeuvres de l'exposition
+- [ ] Prendre des notes
+- [ ] Faire des photographies
+- [ ] Faire des croquis
+- [ ] Faire de courts vidéos
+- [ ] Poser des questions à la professeure ou à la médiatrice
+      

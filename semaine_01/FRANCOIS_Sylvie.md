@@ -1,6 +1,6 @@
 # Sylvie François
 
-![photo](photo_K_Nnebe_Afflux_500.jpg)
+![photo](photo_SF_K_Knebe_Afflux_dec2023.jpg)
 
 Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
 

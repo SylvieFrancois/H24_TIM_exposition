@@ -1,7 +1,7 @@
 # Sylvie François
 Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
 
-![photo](semaine_01/photo_K_Nnebe_Afflux_500.jpg)
+![photo](/photo_K_Nnebe_Afflux_500.jpg)
 
 ## **Intérêts dans le multimedia**
 J'aime particulièrement les oeuvres d'art et j'apprécie l'art numérique qui utilise les codes ou outils technologiques pour en faire une poésie de sons et images.  

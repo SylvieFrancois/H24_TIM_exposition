@@ -16,7 +16,7 @@ Les médiatrices de la Fondation Phi expliquent la multiplicité de son approche
 **ou**
 en cliquant sur l'image:
 
-[![Exemple de capture d'écran](Capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
+[![Exemple de capture d'écran](capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
 
 [![TEXTE QUE VOUS DÉSIREZ ICI](chemin vers la capture d'écran que vous avez mise dans un dossier de votre répertoire)](adresse URL de la vidéo) 
 

@@ -31,7 +31,7 @@ Vous devez vous assurer qu'il y a une ligne de libre avant et après votre ligne
 
 ![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
 
-Oeuvre de Miguel Leache, *Rapido Rem*
+Oeuvre de Miguel Leache, *Rapido Rem*, 2022, présentée lors des **Rencontres Photo Gaspésie 2023**
 
 
 

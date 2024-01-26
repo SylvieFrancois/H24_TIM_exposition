@@ -27,7 +27,9 @@ Apprendre à s'intéresser à toutes les composantes physiques et techniques qui
 >💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
 **EXEMPLE AJOUT DE PHOTO**
-![IMG](IMG_7568)
+
+!![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
+
 
 
 

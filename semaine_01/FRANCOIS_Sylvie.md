@@ -28,7 +28,7 @@ Apprendre à s'intéresser à toutes les composantes physiques et techniques qui
 
 **EXEMPLE AJOUT DE PHOTO**
 
-!![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
+![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
 
 
 

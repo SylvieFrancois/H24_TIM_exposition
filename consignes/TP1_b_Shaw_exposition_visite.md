@@ -1,4 +1,4 @@
-ÉTAPE 2 DU TRAVAIL 1A 
+ÉTAPE 2 DU TRAVAIL 1
 ## TRAVAIL 1B – extrait de la banque d’inspirations d’œuvres et de dispositifs multimédias en exposition (Répertoire GitHub) 20% (semaine 5)
 
 

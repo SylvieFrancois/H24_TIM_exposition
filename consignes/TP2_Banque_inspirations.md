@@ -4,7 +4,7 @@
 
 # LA BANQUE D'INSPIRATIONS 
 Votre banque d'inspirations, organisée en répertoire Github (*repository*) rassemblera les informations sur ces oeuvres et dispositifs ainsi que sur votre expérience. La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus complète de vos futures créations multimédias.  
-#### DANS VOTRE *REPOSITORY* 
+#### DANS VOTRE *REPOSITORY* : H24_V11_inspirations_VOTRENOMDEFAMILLE
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier

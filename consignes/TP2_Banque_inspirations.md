@@ -14,15 +14,14 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
 ## CE QUI EST ATTENDU
 **Contenu de votre répertoire**
 - [X] dossier semaine_01 (avec présentation de vous-même) (évaluation formative)
-- [X] dossier BIAN (avec fiche de présentation de l'oeuvre retenue et médias pertinents) (Travail 1A)
-- [X] dossier Mycelium qui présentera :
-  1. les projets en création par les étudiant.e.s de 3e année en TIM (voir consigne TP1c_exploration_Mycelium.md)
+- [X] dossier Jeremy Shaw (avec fiche de présentation de l'oeuvre retenue et médias pertinents) (Travail 1)
+- [X] dossier Crescentia qui présentera :
+  1. les projets en création par les étudiant.e.s de 3e année en TIM (voir consigne Crescentia)
   2. le projet que vous avez préféré parmi les créations des étudiant.e.s de 3e année en TIM  (avec fiche de présentation de l'oeuvre retenue, médias pertinents et ordre de préférence après expérimentation)
-- [ ] dossier pour votre visite individuelle (avec fiche de présentation de l'oeuvre ou du dispositif retenu, médias pertinents et plan de la communication orale - voir consignes TP1C)
-- [X] dossier pour le dispositif ou l'oeuvre retenu lors de la visite en groupe du 12 avril prochain (détails à venir)
-- [X] dossier pour les conférences qui présentera par un texte de 200 à 250 mots [(compte-rendu + appréciation)](https://github.com/KarineLEcuyer/H23_TIM_documentation/blob/main/consigne/TP1b_precision_conference.md) :
-  1. la présentation de Yanik Daunais, Directeur général et producteur, Halo création (24 mars)
-  2. la conférence de Karine Charbonneau, cheffe des expositions et registraire, Studio Antimodular (Rafael Lozano-Hemmer) (mardi 28 mars, trou horaire
+- [ ] dossier pour votre visite individuelle (avec fiche de présentation de l'oeuvre ou du dispositif retenu, médias pertinents et plan de la communication orale - voir consignes - à venir)
+- [X] dossier pour le dispositif ou l'oeuvre retenu lors de la visite en groupe (détails à venir)
+- [X] dossier pour les conférences qui présentera par un texte de 200 à 250 mots [(compte-rendu + appréciation)]
+  
 
 ## MÉTHODE
 - [ ] Compiler les fichiers et notes à la suite de chacune des visites ou rencontres

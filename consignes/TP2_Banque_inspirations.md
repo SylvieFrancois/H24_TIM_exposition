@@ -20,7 +20,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
   2. le projet que vous avez préféré parmi les créations des étudiant.e.s de 3e année en TIM  (avec fiche de présentation de l'oeuvre retenue, médias pertinents et ordre de préférence après expérimentation)
 - [ ] dossier pour votre visite individuelle (avec fiche de présentation de l'oeuvre ou du dispositif retenu, médias pertinents et plan de la communication orale - voir consignes - à venir)
 - [X] dossier pour le dispositif ou l'oeuvre retenu lors de la visite en groupe (détails à venir)
-- [X] dossier pour les conférences qui présentera par un texte de 200 à 250 mots [(compte-rendu + appréciation)]
+  
   
 
 ## MÉTHODE

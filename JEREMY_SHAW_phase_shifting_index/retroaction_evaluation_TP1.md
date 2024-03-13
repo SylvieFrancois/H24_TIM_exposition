@@ -17,6 +17,6 @@
 - Bien soigner le **nommage** et l'**arborescence**  - Réfléchir à ses mots-clés en tant que contenu qui doit être facilement compris par une autre personne. 
  Ne pas utiliser de séquence chiffrée comme nom; garder les chiffres pour des dates et codes spécifiques. 
 
-- Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations :
+- Pour toute citation intégrale, mettre l'extrait entre « ». Voici la syntaxe pour indiquer les citations : tirée de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), 
  ![quote](/consignes/markdown_syntax_quote.png)
 

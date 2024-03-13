@@ -18,5 +18,5 @@
  Ne pas utiliser de séquence chiffrée comme nom; garder les chiffres pour des dates et codes spécifiques. 
 
 - Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations :
- ![quote](/information_complementaire/medias/markdown_syntax_quote.png)
+ ![quote](/consignes/markdown_syntax_quote.png)
 

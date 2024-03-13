@@ -13,9 +13,9 @@
 - Photographies : indiquer ce que l'on voit - donner un titre, inscrire les crédits
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire (espace de stockage limité avec compte gratuit)
 - Insérer les photographies à partir de votre répertoire (la documentation partagée - avec des collaborateurs demande d'avoir les fichiers accessibles à tous).
+- Donner les sources de la photographie/video, vous ou autre personne/organisation.   Si autre autre organisation, spécifier aussi la source dans le nom du fichier à la fin du nom.
 
-- Bien soigner le **nommage** et l'**arborescence**  - Réfléchir à ses mots-clés en tant que contenu qui doit être facilement compris par une autre personne. 
- Ne pas utiliser de séquence chiffrée comme nom; garder les chiffres pour des dates et codes spécifiques. 
+- Bien soigner le **nommage** et l'**arborescence**  - Réfléchir à ses mots-clés en tant que contenu qui doit être facilement compris par une autre personne. Ne pas utiliser de séquence chiffrée comme nom; garder les chiffres pour des dates et codes spécifiques. 
 
 - Pour toute citation intégrale, mettre l'extrait entre « ». Voici la syntaxe pour indiquer les citations : tirée de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), 
  ![quote](/consignes/markdown_syntax_quote.png)

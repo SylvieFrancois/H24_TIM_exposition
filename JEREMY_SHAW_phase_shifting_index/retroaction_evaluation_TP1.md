@@ -7,6 +7,7 @@
 - Consulter le dossier dans Teams et y lire les procédures pour s'assurer de les respecter.
 
 - Bien développer le propos : écrire comme si la personne qui vous lira **n'a pas vu** l'oeuvre ou le dispositif. Bien expliquer, tant au niveau de la description, de la mise en espace que de l'expérience du visiteur ou de l'interacteur. Puis, pour les aspects de votre vécu, il faut élaborer clairement votre pensée, mettez-y des détails et justifiez chacun des aspects que vous commentez. Accompagnez bien le lecteur, la lectrice pour lui permettre de saisir facilement.
+- Développer le vocabulaire technique pour décrire les composantes et éléments de mise en exposition (ex. projecteur vidéo numérique, haut-parleur, caisson de basses-fréquences, pont d'éclairage ou herse, effet stroboscopique); faire des recherches complémentaires pour identifier et nommer les éléments observés.
 
 - Mettre à jour le README.md du répertoire au fil de l'ajout de dossiers
 - Une numérisation (scan) au lieu d'une photo pour des pages de document offre un meilleur rendu (ex. : extrait du catalogue, cartel)

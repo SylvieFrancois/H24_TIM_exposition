@@ -1,7 +1,7 @@
-# **TRAVAIL 3 - Présentation orale (20%)**
+# **TRAVAIL 3 - PRÉSENTATION ORALE (20%)**  Semaines 14-15 (selon horaire déterminé à la semaine 12)	
 Consignes du travail (Communication efficace de ses idées et de ses choix : présentation orale d’une œuvre, de l’expérience vécue (visite individuelle) et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fichier .md)
 
-Semaines 14-15 (selon horaire déterminé à la semaine 12)	
+
 
 ## OBJECTIFS POURSUIVIS
 

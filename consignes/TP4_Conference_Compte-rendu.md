@@ -2,7 +2,6 @@
 
 *Mardi 16 avril 2024 - 12h30-14h00 - Salle Claude Legault (B1346)*
 
-
 ### Karine Charbonneau, cheffe des expositions et registraire, [Studio Antimodular (Rafael Lozano-Hemmer)](https://www.lozano-hemmer.com/)
 
 Karine Charbonneau vous présentera la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique, Rafael Lozanon-Hemmer)

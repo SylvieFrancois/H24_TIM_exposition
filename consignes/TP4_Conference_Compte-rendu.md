@@ -16,4 +16,4 @@ Le compte-rendu doit avoir un **titre**. Le propos doit être bien structuré (e
 Dans votre répertoire V11_Banque_inspirations/, il vous faudra créer un dossier Conférence et une fiche_rencontre_K_CHARBONNEAU.md  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix tirée du site web de l'artiste en identifiant bien la source.
 
 Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote avant de le remettre.
-Référence : [Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique](https://ameliofrancais.ccdmd.qc.ca/storage/amelioration-du-francais/ressources/1696430972-Genres_Genres_02lecompterenducritique_V2.pdf)
+Référence : [Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique](https://ameliofrancais.ccdmd.qc.ca/storage/amelioration-du-francais/ressources/1696430972-Genres_Genres_02lecompterenducritique_V2.pdf)  (voir les pages 5 à 10 pour des stratégies et un exemple)

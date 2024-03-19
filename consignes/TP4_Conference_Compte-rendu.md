@@ -1,4 +1,4 @@
-# TP4 - Conférence (15%) - remise semaine 12
+# TP4 - CONFÉRENCE (15%) - remise semaine 12
 
 *Mardi 16 avril 2024 - 12h30-14h00 - Salle Claude Legault (B1346)*
 

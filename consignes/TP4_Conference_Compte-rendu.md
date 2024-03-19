@@ -12,7 +12,8 @@ Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des
 Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conférence en partageant les grandes lignes de celles-ci. Vous devrez ordonner votre propos pour que la construction soit logique et reprenne le fil de ce qui a été présenté. 
 
 Le compte-rendu doit avoir un **titre**. Le propos doit être bien structuré (en **paragraphes**) avec une **introduction** qui présente l'intervenant.e et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le **développement**. Enfin, votre **conclusion** partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification. Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu. 
+
 Dans votre répertoire V11_Banque_inspirations/, il vous faudra créer un dossier Conférence et une fiche_rencontre_K_CHARBONNEAU.md  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix tirée du site web de l'artiste en identifiant bien la source.
 
 Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote avant de le remettre.
-Référence : [Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique](https://www.google.com/search?q=compte-rendu+coll%C3%A9gial&rlz=1C5CHFA_enCA862CA862&oq=compte-rendu+coll%C3%A9gial&aqs=chrome..69i57j33i160l3.5720j0j7&sourceid=chrome&ie=UTF-8#:~:text=le%20compte%20rendu%20critique,ca%20%E2%80%BA%20media%20%E2%80%BA%20Genres_Ge...)
+Référence : [Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique](https://ameliofrancais.ccdmd.qc.ca/storage/amelioration-du-francais/ressources/1696430972-Genres_Genres_02lecompterenducritique_V2.pdf)

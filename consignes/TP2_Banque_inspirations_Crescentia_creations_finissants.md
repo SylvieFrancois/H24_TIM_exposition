@@ -17,6 +17,7 @@
 - le lien de chacun avec le thème *Crescentia*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
+- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
 De plus, vous devrez :
 - identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
@@ -24,7 +25,7 @@ De plus, vous devrez :
   
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 - ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
 

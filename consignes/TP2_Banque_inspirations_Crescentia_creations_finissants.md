@@ -35,7 +35,7 @@ Voir ** dans le dossier *consigne*
 La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
 
 
-LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
+LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OUELLET FREDERICKS
 
 ### MISE EN CONTEXTE
 > Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.

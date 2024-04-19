@@ -4,7 +4,7 @@
 
 ### Jade Séguela, registraire, [Studio Antimodular (Rafael Lozano-Hemmer)](https://www.lozano-hemmer.com/)
 
-Karine Charbonneau vous présentera la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique, Rafael Lozano-Hemmer)
+Jade Séguéla vous présentera la logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique, Rafael Lozano-Hemmer)
 
 # Ce qui est attendu 
 Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté. 

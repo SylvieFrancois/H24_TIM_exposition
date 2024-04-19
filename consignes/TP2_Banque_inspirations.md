@@ -19,7 +19,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
   1. les projets en création par les étudiant.e.s de 3e année en TIM (voir consigne Crescentia)
   2. le projet que vous avez préféré parmi les créations des étudiant.e.s de 3e année en TIM  (avec fiche de présentation de l'oeuvre retenue, médias pertinents et ordre de préférence après expérimentation)
 - [ ] dossier pour votre visite individuelle (avec fiche de présentation de l'oeuvre ou du dispositif retenu, médias pertinents et plan de la communication orale - voir consignes - à venir)
-- [X] dossier pour le dispositif ou l'oeuvre retenu lors de la visite en groupe (détails à venir)
+- [X] dossier pour le dispositif retenu lors de la visite en groupe (Centre des sciences de Montréal)
   
   
 

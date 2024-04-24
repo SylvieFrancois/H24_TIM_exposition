@@ -51,7 +51,7 @@ Tant pour la création des dossiers et fichiers que pour le contenu développé,
 | Titre de l'oeuvre ou du dispositif | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
 | Nom de l'artiste ou de la firme    |         | Pour le nom de la firme, voir le panneau de crédits de l'exposition |
 | Année de réalisation     |          |  |
-| Description de l'oeuvre ou du dispositif  | Cartel + diverses vues          | À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
+| Description de l'oeuvre ou du dispositif  | Cartel (pour une oeuvre) ou Texte explicatif (pour un dispositif) + diverses vues          | À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante* - vidéo ET photo qui nous permettent de bien comprendre le type d'installation             | --- |
 | Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)    | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia         |  |
 | Mise en espace   | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  |

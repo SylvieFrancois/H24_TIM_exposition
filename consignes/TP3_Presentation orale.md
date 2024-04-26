@@ -59,4 +59,4 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 - Structure de la présentation, clarté du propos, qualité du support visuel, terminologie 
 
 ## RÉFÉRENCES UTILES
-Voir les documents «communiquer_efficacement...» dans le dossier «informations complémentaires» dans l'équipe Teams du cours. 
+Voir le document «communiquer_efficacement...» dans le dossier «informations complémentaires» dans l'équipe Teams du cours. 
